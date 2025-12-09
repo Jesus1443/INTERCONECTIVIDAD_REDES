@@ -11,7 +11,8 @@
 Este repositorio contiene prácticas de la asignatura **Interconectividad de Redes**
 
 ## Contenido
-- Archivos `.pkt` 
+- Archivos `.pkt y .pdf(Reporte e investigación)` 
+
 
 
 
